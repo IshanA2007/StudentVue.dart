@@ -4,7 +4,7 @@ version: 0.0.7
 repository: https://github.com/StudentVue/StudentVue.dart
 
 environment:
-  sdk: '>=2.10.0 <3.0.0'
+  sdk: '>=2.12.0 <4.0.0'
 
 dependencies:
   dio: ^3.0.10
